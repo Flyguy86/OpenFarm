@@ -5,7 +5,7 @@
 * https://wiki.zoneminder.com/Hardware_Compatibility_List#X10_Devices
 - Debian installation guide
 * https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
-- [ ]need to create snapshot script to generate timelapse
+- [ ] Create snapshot script to generate timelapse, Save to NFS drive
 
 # FileServer Synology (Cheaper/Hackable RAID device)
 - How to install ipkg tool, avalibel packages ipkg update
