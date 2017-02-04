@@ -14,6 +14,10 @@
 # ZoneMinder debian installguide. 
  * https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
 
+# RPI farm sensor Aggrigator
+- network sniffer, for sensors hosting data in JSON format
+- AI to respond based on sensor input to control Irrigation and robot response
+
 # RPI Label printer 
 - Dynmo 450
  * https://www.hmazter.com/2013/05/raspberry-pi-printer-server-for-labelwriter
