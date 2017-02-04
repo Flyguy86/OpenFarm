@@ -1,9 +1,11 @@
 # OpenFarm
 
-# Remote Video monitoring  VIA  ZoneMinder
+# ZoneMinder - Remote Video monitoring
 - ZM Hardware Compatability list,  Most IP Cameras work just takes a bit of effort to set them up.
 * https://wiki.zoneminder.com/Hardware_Compatibility_List#X10_Devices
-
+- Debian installation guide
+* https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
+[] need to create snapshot script to generate timelapse
 
 # FileServer Synology (Cheaper/Hackable RAID device)
 - How to install ipkg tool, avalibel packages ipkg update
@@ -12,11 +14,13 @@
  * https://markpith.wordpress.com/2015/10/26/debian-chroot-on-synology-nas/
 
 # ZoneMinder debian installguide. 
- * https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
+
 
 # RPI farm sensor Aggrigator
 - network sniffer, for sensors hosting data in JSON format
 - AI to respond based on sensor input to control Irrigation and robot response
+- Run Readonly Root file system
+ * https://hallard.me/raspberry-pi-read-only/
 
 # RPI Label printer 
 - Dynmo 450
