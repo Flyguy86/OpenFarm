@@ -18,6 +18,7 @@ https://www.hmazter.com/2013/05/raspberry-pi-printer-server-for-labelwriter
 
 # Wireless sensor nodes
 Moisture
-  https://www.tindie.com/products/miceuz/i2c-soil-moisture-sensor/
+https://www.tindie.com/products/miceuz/i2c-soil-moisture-sensor/
 Particle Photon
-  https://docs.particle.io/reference/firmware/core/
+https://docs.particle.io/reference/firmware/core/
+
