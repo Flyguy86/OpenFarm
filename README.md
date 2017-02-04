@@ -33,7 +33,7 @@
  * Still need to link and upload the link to purchace.
 
 
-# OpenSprinkler Irrigation REST controller  
+# RPI - OpenSprinkler Irrigation REST controller  
 - Product purchace
  * https://opensprinkler.com/product/opensprinkler-pi/
 - RPI Software Install
@@ -42,3 +42,5 @@
  * https://github.com/rayshobby/opensprinkler
 - OS API refernce PDF
  * https://openthings.freshdesk.com/support/solutions/articles/5000716363-api-document-firmware-2-1-7-current-
+- Add RF control for remote Socket control
+ * http://rayshobby.net/opensprinkler-firmware-2-1-1-new-feature-control-remote-power-sockets/
