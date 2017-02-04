@@ -6,9 +6,9 @@
 
 # FileServer Synology (Cheaper/Hackable RAID device)
 - How to install ipkg tool, avalibel packages ipkg update
-- http://rescene.wikidot.com/synology-ipkg
+ * http://rescene.wikidot.com/synology-ipkg
 - Debian Chroot
-- https://markpith.wordpress.com/2015/10/26/debian-chroot-on-synology-nas/
+ * https://markpith.wordpress.com/2015/10/26/debian-chroot-on-synology-nas/
 
 # ZoneMinder debian installguide. 
 - https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
