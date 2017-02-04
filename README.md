@@ -5,16 +5,13 @@
 * https://wiki.zoneminder.com/Hardware_Compatibility_List#X10_Devices
 - Debian installation guide
 * https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
-[] need to create snapshot script to generate timelapse
+[_] need to create snapshot script to generate timelapse
 
 # FileServer Synology (Cheaper/Hackable RAID device)
 - How to install ipkg tool, avalibel packages ipkg update
  * http://rescene.wikidot.com/synology-ipkg
 - Debian Chroot
  * https://markpith.wordpress.com/2015/10/26/debian-chroot-on-synology-nas/
-
-# ZoneMinder debian installguide. 
-
 
 # RPI farm sensor Aggrigator
 - network sniffer, for sensors hosting data in JSON format
