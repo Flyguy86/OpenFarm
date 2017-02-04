@@ -26,6 +26,8 @@
 - Moisture
  * https://www.tindie.com/products/miceuz/i2c-soil-moisture-sensor/
   * Chirp I2C Moisture sensor Base Calibration,  615 = Glass of water, 320 = No contact , 460 = Damp soil
+- chrip github
+ * https://github.com/Miceuz/i2c-moisture-sensor
 - Particle Photon
  * https://docs.particle.io/reference/firmware/core/
 
