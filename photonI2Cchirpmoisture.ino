@@ -1,3 +1,5 @@
+// Chirp I2C Moisture sensor Base Calibration,   615 = Glass of water   320 = No contact     Damp soil = 460
+
 //SYSTEM_MODE(MANUAL);
 TCPClient webClient;
 TCPServer webServer = TCPServer(88);
