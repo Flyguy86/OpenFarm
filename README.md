@@ -15,6 +15,7 @@
  * https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
 
 # RPI Label printer 
+- Dynmo 450
  * https://www.hmazter.com/2013/05/raspberry-pi-printer-server-for-labelwriter
 
 # Wireless sensor nodes
