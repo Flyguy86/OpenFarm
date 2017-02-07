@@ -18,21 +18,21 @@
 - AI to respond based on sensor input to control Irrigation and robot response
 - Run Readonly Root file system
  * https://hallard.me/raspberry-pi-read-only/
-- [ ] Set Wifi & Host Name in /boot/config.txt
-- [ ] Set Locale to US
-- [ ] Use DHCP for Non-sever Devices, IPCams
-- [ ] Set Static IP for sever devices, OpenSprinkler, ZoneMonitor, Farm AI Middleware
-- [ ] Install current version of Node.js NPM
-- [ ] Install Particle-cli  via NPM
-- [ ] Install NFS cliet
-- [ ] Remote Mount NFS filesystem, /home/camera <-RW /home/scripts <-RO /home/misc <- RW 
+- [x] Set Wifi & Host Name in /boot/config.txt
+- [x] Set Locale to US
+- [x] Use DHCP for Non-sever Devices, IPCams
+- [x] Set Static IP for sever devices, OpenSprinkler, ZoneMonitor, Farm AI Middleware
+- [x] Install current version of Node.js NPM
+- [x] Install Particle-cli  via NPM
+- [x] Install NFS cliet
+- [x] Remote Mount NFS filesystem, /home/camera <-RW /home/scripts <-RO /home/misc <- RW 
 - [x] Bash script to create Folder in Each NFS mount based on HostName, Script checks write permissions as well
-- [ ] Network Connectivity script, & reboot
-- [ ] VPN for Servers Or is it all done through middleware ??? Eventually.
-- [ ] Read only root for OpenSprinkler & Camera setups
-- [ ] RPi-Cam For Camera setup ?  * DeitPi-Cam software
-- [ ] Install GIT
-- [ ] Install tcpdump, nload, iftop, OpenSSH client
+- [x] Network Connectivity script, & reboot
+- [x] VPN for Servers Or is it all done through middleware ??? Eventually.
+- [x] Read only root for OpenSprinkler & Camera setups
+- [x] RPi-Cam For Camera setup ?  * DeitPi-Cam software
+- [x] Install GIT
+- [x] Install tcpdump, nload, iftop, OpenSSH client
 
 # RPI Label printer 
 - Dynmo 450
