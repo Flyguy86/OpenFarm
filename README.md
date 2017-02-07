@@ -26,7 +26,7 @@
 - [ ] Install Particle-cli  via NPM
 - [ ] Install NFS cliet
 - [ ] Remote Mount NFS filesystem, /home/camera <-RW /home/scripts <-RO /home/misc <- RW 
-- [ ] Bash script to create Folder in Each NFS mount based on HostName, Script checks write permissions as well
+- [x] Bash script to create Folder in Each NFS mount based on HostName, Script checks write permissions as well
 - [ ] Network Connectivity script, & reboot
 - [ ] VPN for Servers Or is it all done through middleware ??? Eventually.
 - [ ] Read only root for OpenSprinkler & Camera setups
