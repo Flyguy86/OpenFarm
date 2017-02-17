@@ -1,5 +1,21 @@
 # OpenFarm
 
+# Routing wifi / cellular USB tether / VPN / Routers / WDS / Multi WAN / 
+- RT-N66U / Tomato Shibby firmware replacement
+* https://learntomato.com/how-to-flash-a-router-tomato-firmware-shibby-mod/
+* http://tomato.groov.pl/download/K26RT-N/build5x-138-MultiWAN/Asus%20RT-N66u%2064k/
+- Wireless Bridging
+* http://vpnpick.com/choose-wireless-bridge-mode-tomato-network/
+* https://learntomato.com/setup-wireless-repeater-wds-bridge-tomato/
+- OpenVPN key cert generation
+*
+*
+- USB Tethering
+* https://gist.github.com/dferg/2278196d736d5b367682
+*
+-
+
+
 # ZoneMinder - Remote Video monitoring
 - ZM Hardware Compatability list,  Most IP Cameras work just takes a bit of effort to set them up.
 * https://wiki.zoneminder.com/Hardware_Compatibility_List#X10_Devices
