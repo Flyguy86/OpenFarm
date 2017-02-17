@@ -13,7 +13,6 @@
 - USB Tethering
  * https://gist.github.com/dferg/2278196d736d5b367682
  * http://tomatousb.org/forum/t-259025/usb-android-tethering-modules
--
 
 
 # Robots Erle
