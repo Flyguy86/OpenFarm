@@ -2,25 +2,25 @@
 
 # Routing wifi / cellular USB tether / VPN / Routers / WDS / Multi WAN / 
 - RT-N66U / Tomato Shibby firmware replacement
-* https://learntomato.com/how-to-flash-a-router-tomato-firmware-shibby-mod/
-* http://tomato.groov.pl/download/K26RT-N/build5x-138-MultiWAN/Asus%20RT-N66u%2064k/
+ * https://learntomato.com/how-to-flash-a-router-tomato-firmware-shibby-mod/
+ * http://tomato.groov.pl/download/K26RT-N/build5x-138-MultiWAN/Asus%20RT-N66u%2064k/
 - Wireless Bridging
-* http://vpnpick.com/choose-wireless-bridge-mode-tomato-network/
-* https://learntomato.com/setup-wireless-repeater-wds-bridge-tomato/
+ * http://vpnpick.com/choose-wireless-bridge-mode-tomato-network/
+ * https://learntomato.com/setup-wireless-repeater-wds-bridge-tomato/
 - OpenVPN key cert generation
-*
-*
+ *
+ *
 - USB Tethering
-* https://gist.github.com/dferg/2278196d736d5b367682
-*
+ * https://gist.github.com/dferg/2278196d736d5b367682
+ * http://tomatousb.org/forum/t-259025/usb-android-tethering-modules
 -
 
 
 # ZoneMinder - Remote Video monitoring
 - ZM Hardware Compatability list,  Most IP Cameras work just takes a bit of effort to set them up.
-* https://wiki.zoneminder.com/Hardware_Compatibility_List#X10_Devices
+ * https://wiki.zoneminder.com/Hardware_Compatibility_List#X10_Devices
 - Debian installation guide
-* https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
+ * https://zoneminder.readthedocs.io/en/stable/installationguide/index.html
 - [ ] Create snapshot script to generate timelapse, Save to NFS drive
 
 # FileServer Synology (Cheaper/Hackable RAID device)
