@@ -13,7 +13,7 @@
 - USB Tethering
  * https://gist.github.com/dferg/2278196d736d5b367682
  * http://tomatousb.org/forum/t-259025/usb-android-tethering-modules
-
+ * http://unix.stackexchange.com/questions/60078/find-out-which-modules-are-associated-with-a-usb-device
 
 # Robots Erle
 - Arial Survey 
