@@ -14,6 +14,8 @@
  * https://gist.github.com/dferg/2278196d736d5b367682
  * http://tomatousb.org/forum/t-259025/usb-android-tethering-modules
  * http://unix.stackexchange.com/questions/60078/find-out-which-modules-are-associated-with-a-usb-device
+ * https://wiki.archlinux.org/index.php/Android_tethering#USB_tethering
+ * 
 
 # Robots Erle
 - Arial Survey 
