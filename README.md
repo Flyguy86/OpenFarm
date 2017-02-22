@@ -18,6 +18,10 @@
  * 
 
 # Robots Erle
+
+- Pre-Flight Checklist 
+ * https://erlerobotics.gitbooks.io/erle-robotics-erle-plane/content/en/variado/checks.html
+ * 
 - Arial Survey 
  * 
  * http://tomato.groov.pl/download/K26RT-N/build5x-138-MultiWAN/Asus%20RT-N66u%2064k/
@@ -29,7 +33,7 @@
  *
 - Ardupilot & AMP Planner
  * https://gist.github.com/dferg/2278196d736d5b367682
- * http://tomatousb.org/forum/t-259025/usb-android-tethering-modules
+ * http://ardupilot.org/plane/docs/common-choosing-a-ground-station.html#apm-planner-2-0
 
 
 
